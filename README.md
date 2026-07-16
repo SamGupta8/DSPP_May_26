@@ -1,4 +1,4 @@
-# DSPP_Portfolio of Work_July_26
+# DSPP Portfolio of Work July 26
 
 
 # Data Science CV
